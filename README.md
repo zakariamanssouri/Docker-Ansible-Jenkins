@@ -1,6 +1,6 @@
 # Docker-Ansible-Jenkins
 
-<h3 align="center">A Micro Services architecture use case with Spring Cloud  </h3>
+<h3 align="center">Devops Project using  Jenkins , Ansible , Docker  for creating a CI-CD pipeline for automatically building and deploying a spring boot application as a docker container </h3>
 
 ---
 
