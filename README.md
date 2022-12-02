@@ -24,7 +24,7 @@ This is the architecture of our Application
 ![image](https://user-images.githubusercontent.com/80859231/205272482-1d1fed34-950b-47d8-b48e-b34335671021.png)
 
 
-<div>
+</div>
 
 
 
